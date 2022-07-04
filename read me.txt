@@ -1,0 +1,2 @@
+run
+http://localhost/Student%20Attendance/sidebar-04/firstpage.php
